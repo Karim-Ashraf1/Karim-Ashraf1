@@ -1,27 +1,27 @@
 # 👋 Hi, I’m Karim Ashraf
 
-I'm a passionate **Computer Science and Artificial Intelligence** student at the University of Science and Technology at Zewail City, specializing in **Software Development**. I love exploring the intersection of technology and creativity, particularly through **game development**, **AI**, and **web development**.
+I am a **Computer Science & Artificial Intelligence** undergraduate specializing in **Software Development** with a concentration in **Application Development** at University of Science and Technology, Zewail City.
 
 ---
 
 ## 👀 Interests
-- **Game Development**: Building immersive experiences using Unreal Engine and Unity.
-- **Artificial Intelligence**: Exploring machine learning, deep learning, and their applications.
-- **Software Engineering**: Crafting efficient and scalable software solutions.
-- **Virtual Reality**: Creating interactive VR environments for education and entertainment.
-- **Contributing to Open Source Software**: Collaborating with global developers to build impactful projects.
+- **Software Engineering**
+- **Game Development**
+- **Virtual Reality**
+- **Contributing to Open Source Software**
 
 ---
 
 ## 💼 Work Experience
 ### Game Developer @ Innova (May 2024 – Present)
-- Developed a third-person educational game to teach financial literacy.
-- Integrated modules like UI, inventory, and stamina systems.
-- Enhanced game performance by 50% through QA and optimization.
 
 ### Coding Instructor @ Ischool (Nov 2023 – Present)
-- Mentored over 700 students, achieving a 90%+ satisfaction rate.
-- Taught topics like AI, app development, and game development.
+
+---
+
+## 📂 My CV
+You can download my CV from the following link:  
+[Download CV](https://github.com/Karim-Ashraf1/Karim-Ashraf1/raw/main/Karim%20Ashraf%20CV.pdf)
 
 ---
 
